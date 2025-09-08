@@ -1,1 +1,7 @@
 abs
+
+transaction_safe_dynamic
+
+
+sad
+__SIGNED_CHARS__
